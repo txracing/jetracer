@@ -80,7 +80,7 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
  
      ```bash
      cd $HOME
-     git clone https://github.com/NVIDIA-AI-IOT/jetracer
+     git clone https://github.com/txracing/jetracer
      cd jetracer
      sudo python3 setup.py install
      ```
